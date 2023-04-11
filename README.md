@@ -2,7 +2,7 @@
 
 My name is **Darya**.
 
-I love **GIT**
+I love **GIT**  
 its advantages:
 
 - free
